@@ -1,0 +1,33 @@
+Mid-TERM I review
+Ezhil Kalaimannan | ekalaimannan@uwf.edu
+Textbook Chapters Covered: 1, 6 and 7.
+Descriptive questions and Problems: 50 points
+
+Study Guide 
+    1. Chapter 7 – Wireless Networks
+        a) CDMA
+        b) The 802.11 Architecture, Active and Passive Scanning in Wireless Networks
+        c) 802.11 MAC Layer CSMA/CA Protocol – SIFS and DIFS
+        d) CTS and RTS
+
+    2. Chapter 1 - Introduction
+        a) What is a Protocol?
+
+        b) Packet Switching (Store and Forward Transmission, Queuing and Packet Loss)
+        c) Multiplexing in Circuit-Switched Networks
+        d) Overview of Delay in Packet-Switched Networks 
+    • Comparing Transmission and Propagation Delay
+        e) Layered Architecture
+        f) Throughput in Computer Networks
+
+    3. Chapter 6 - Data Link Layer
+        a) Error Detection and Correction Techniques 
+                1. Parity Checks
+                2. Checksum
+                3. CRC
+                4. Hamming Code – Error Detection and Correction
+                5. Slotted ALOHA
+                6. CSMA/CD – Estimation of Conditional Probabilities
+                7. Slotted ALOHA
+
+
